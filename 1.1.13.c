@@ -53,4 +53,5 @@ int main(){
 	}
 	else{
 		printf("-1");
+	}
 }
