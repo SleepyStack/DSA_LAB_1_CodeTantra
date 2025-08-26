@@ -1,7 +1,6 @@
 /*
 You are given an array of integers. Your task is to sort the array in ascending order using the Selection Sort algorithm.
 
-
 Input Format:
 
 The first line contains a single integer 
