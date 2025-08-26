@@ -1,6 +1,5 @@
 /*
-u are given an array of integers. Your task is to sort the array in ascending order using the Selection Sort algorithm.
-
+You are given an array of integers. Your task is to sort the array in ascending order using the Selection Sort algorithm.
 
 
 Input Format:
