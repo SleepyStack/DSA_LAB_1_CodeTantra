@@ -1,5 +1,5 @@
 /*
-u are given a task to sort an array of integers using the Shell Sort algorithm. Your program should follow these specifications:
+You are given a task to sort an array of integers using the Shell Sort algorithm. Your program should follow these specifications:
 
 
 
