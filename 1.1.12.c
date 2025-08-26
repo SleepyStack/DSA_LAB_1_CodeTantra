@@ -64,4 +64,8 @@ int main(){
 			printf("%d",arr[i]);
 		}
 		printf("\n");
+	}
+	else{
+		printf("-1\n");
+	}
 }
