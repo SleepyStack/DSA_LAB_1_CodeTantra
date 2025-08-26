@@ -2,7 +2,6 @@
 You are given a task to sort an array of integers using the Counting Sort algorithm. Your program should follow these specifications:
 
 
-
 Input Format:
 
 The first line contains a single integer n, which represents the number of elements in the array.
