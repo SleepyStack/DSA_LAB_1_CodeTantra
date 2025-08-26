@@ -55,4 +55,30 @@ void countingSort(int arr[],int n,int output[]){
 				output[index++]=i;
 			}
 		}
+	}
+}
+int main(){
+	int n;
+	scanf("%d",&n);
+	int output[n];
+	int elements=0;
+	int arr[n];
+	for(int i=0;;i++){
+		scanf("%d",&arr[i]);
+		elements++;
+		char c=getchar();
+		if(c=='\n'){
+			break;
+		}
+	}
+	if(n==elements){
+		countingSort(arr,n,output);
+		for(int i=0;i<n-1;i++){
+			printf("%d ",output[i]);
+		}
+		printf("%d\n",output[n-1]);
+	}
+	else{
+		printf("-1");
+	}
 }
